@@ -28,3 +28,5 @@ const Search = (props) => {
         </from>
     );
 }
+
+export default Search;
